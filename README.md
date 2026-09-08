@@ -1,4 +1,4 @@
-## Hi there 👋
+## Student at ODU aspiring to be a full-stack engineer. Looking for any work that would help me reach that goal. 
 
 <!--
 **cw92-gitrepo/cw92-gitrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
